@@ -31,3 +31,7 @@
 | sketch_08_1 | sketch_08_2 | sketch_08_3 | sketch_08_4 | sketch_08_5 |
 |--------------|--------------|--------------|--------------|--------------|
 | ![sketch_08_1](IMAGES/sketch_08_1.png) | ![sketch_08_2](IMAGES/sketch_08_2.png) | ![sketch_08_3](IMAGES/sketch_08_3.png) | ![sketch_08_4](IMAGES/sketch_08_4.png) | ![sketch_08_5](IMAGES/sketch_08_5.png) |
+
+| sketch_20220628C_1 | sketch_20220628C_2 | sketch_20230224_1 | sketch_05_4 | sketch_05_5 |
+|--------------|--------------|--------------|--------------|--------------|
+| ![sketch_20220628C_1](IMAGES/sketch_20220628C_1.png) | ![sketch_20220628C_2](IMAGES/sketch_20220628C_2.png) | ![sketch_20230224_1](IMAGES/sketch_20230224_1.png) | ![sketch_20250203_1](IMAGES/sketch_20250203_1.png) | ![sketch_20250203_2](IMAGES/sketch_20250203_2.png) |
